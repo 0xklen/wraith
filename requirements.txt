@@ -1,0 +1,2 @@
+# Core WRAITH is stdlib-only — no pip install required.
+# iOS support needs the Appium client:  pip install -r requirements-ios.txt
