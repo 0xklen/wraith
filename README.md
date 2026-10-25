@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" width="140" height="140" alt="WRAITH logo" />
+
 # WRAITH
 
 ### An AI agent that operates your phone.
